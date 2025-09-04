@@ -1090,7 +1090,7 @@ body {
   cursor: pointer;
 }
 
-/* .outlet-card:hover {
+.outlet-card:hover {
   transform: rotate(-2deg) scale(1.03);
   box-shadow: 0 10px 25px rgba(0,0,0,0.2);
 }
@@ -1098,7 +1098,7 @@ body {
 .outlet-card:active {
   transform: rotate(0deg) scale(0.98);
   box-shadow: 0 3px 10px rgba(0,0,0,0.15);
-} */
+}
 
 .img-outlet {
   border-radius: 20px;
